@@ -1,1 +1,1 @@
- rock ane paper
+Rock, Paper, Scissors
